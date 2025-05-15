@@ -1,1 +1,1 @@
-Esta carpeta corresponde al primer pinto de la Evaluación
+Esta carpeta corresponde al primer punto de la Evaluación
